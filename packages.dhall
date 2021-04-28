@@ -18,7 +18,7 @@ let upstream =
           , repo =
               "https://github.com/purescript-open-community/purescript-open-memoize.git"
           , version =
-              "master"
+              "v6.1.0"
           }
 
 in  upstream
